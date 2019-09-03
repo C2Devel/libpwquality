@@ -10,10 +10,8 @@ syntax: glob
 *.gmo
 *.tar.bz2
 *.tar.gz
-*.spec
 *~
 POTFILES
-Makefile
 Makefile.in
 aclocal.m4
 autom4te*
